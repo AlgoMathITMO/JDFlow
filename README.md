@@ -1,6 +1,8 @@
 # JDFlow
 ### Kirill Zakharov
 
+For the current version see https://github.com/kirillzx/JDFlow
+
 The official realisation of the prposed method JDFlow at the conference ICCS 2024, Spain, Malaga (link on the article will be available later).
 
 #### Abstract: 
